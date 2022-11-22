@@ -1,0 +1,12 @@
+
+
+#login-box {
+    display: block;
+    text-align: center;
+    margin-top: 15%;
+    border-style: solid;
+    border-radius: 10px;
+    width: 50%;
+    margin-left: 25%;
+    height: 48vh;
+}
