@@ -1,14 +1,14 @@
 body {
-    background-color: antiquewhite;
+    background-color: #F5F5F5;
 }
 
 #login-box {
     display: block;
     text-align: center;
-    background-color: lightgray;
+    background-color: EBEBEB;
     margin-top: 15%;
     box-shadow: 5px 5px #888888;
-    border-style: solid ;
+    border-style: solid;
     border-radius: 10px;
     width: 50%;
     margin-left: 24%;
